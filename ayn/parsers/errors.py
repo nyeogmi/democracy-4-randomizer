@@ -1,0 +1,2 @@
+class CantWriteException(Exception):
+    pass
